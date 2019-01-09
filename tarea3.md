@@ -16,11 +16,11 @@ var numero_de_casa3 = 2689
 var numero_de_casa4 = 3452
 var numero_de_casa5 = 763
 
-var direccion1 = var(calle1) + var(numero_de_casa1)
-var direccion2 = var(calle2) + var(numero_de_casa2)
-var direccion3 = var(calle3) + var(numero_de_casa3)
-var direccion4 = var(calle4) + var(numero_de_casa4)
-var direccion5 = var(calle5) + var(numero_de_casa5)
+var direccion1 = (calle1) + (numero_de_casa1)
+var direccion2 = (calle2) + (numero_de_casa2)
+var direccion3 = (calle3) + (numero_de_casa3)
+var direccion4 = (calle4) + (numero_de_casa4)
+var direccion5 = (calle5) + (numero_de_casa5)
 
 var telefono1 = [8449512563, 6195324]
 var telefono2 = [8447516328, 4625885]
@@ -48,33 +48,33 @@ var ciudad5 = 'Saltillo'
 
 
 var contacto1= {'nombre' : nombre1, 
-          'direccion' : str(direccion1),
-          'telefonos' : str(telefono1),
+          'direccion' : (direccion1),
+          'telefonos' : (telefono1),
           'correos' : (correo1),
           'año de nacimiento' : año_de_nacimiento1,
           'ciudad' : (ciudad1)}
 var contacto2= {'nombre' : (nombre2), 
-          'direccion' : str(direccion2),
-          'telefonos' : str(telefono2),
+          'direccion' : (direccion2),
+          'telefonos' : (telefono2),
           'correos' : (correo2),
-          'año de nacimiento' : str(año_de_nacimiento2),
+          'año de nacimiento' : (año_de_nacimiento2),
           'ciudad' : (ciudad2)}
 var contacto3= {'nombre' : (nombre3), 
-          'direccion' : str(direccion3),
-          'telefonos' : str(telefono3),
+          'direccion' : (direccion3),
+          'telefonos' : (telefono3),
           'correos' : (correo3),
-          'año de nacimiento' : str(año_de_nacimiento3),
+          'año de nacimiento' : (año_de_nacimiento3),
           'ciudad' : (ciudad3)}
 var contacto4= {'nombre' : (nombre4), 
-          'direccion' : str(direccion4),
-          'telefonos' : str(telefono4),
+          'direccion' : (direccion4),
+          'telefonos' : (telefono4),
           'correos' : (correo4),
-          'año de nacimiento' : str(año_de_nacimiento4),
+          'año de nacimiento' : (año_de_nacimiento4),
           'ciudad' : (ciudad4)}
 var contacto5= {'nombre' : (nombre5), 
-          'direccion' : str(direccion5),
-          'telefonos' : str(telefono5),
+          'direccion' : (direccion5),
+          'telefonos' : (telefono5),
           'correos' : (correo5),
-          'año de nacimiento' : str(año_de_nacimiento5),
-          'ciudad' : (ciudad5),
+          'año de nacimiento' : (año_de_nacimiento5),
+          'ciudad' : (ciudad5),}
           
