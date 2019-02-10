@@ -1,5 +1,5 @@
-var nombre1 = 'Ricardo Hernandez'
-var nombre2 = 'David Hernandez'
+var nombre1 = 'Ricardo Hernandez';
+var nombre2 = 'David Hernandez';
 var nombre3 = 'Mauricio Ramirez'
 var nombre4 = 'Mariana Lopez'
 var nombre5 = 'Liliana Elizondo'
@@ -30,7 +30,7 @@ var telefono5 = [8445839274, 1682951]
 
 var correo1 = ('RH@hotmail.com', 'RHnegocios@gmail.com')
 var correo2 = ('DH@hotmail.com', 'DHnegocios@gmail.com')
-var orreo3 = ('MR@hotmail.com', 'MRnegocios@gmail.com')
+var correo3 = ('MR@hotmail.com', 'MRnegocios@gmail.com')
 var correo4 = ('ML@hotmail.com', 'MLnegocios@gmail.com')
 var correo5 = ('LE@hotmail.com', 'LEnegocios@gmail.com')
 
@@ -77,4 +77,6 @@ var contacto5= {'nombre' : (nombre5),
           'correos' : (correo5),
           'año de nacimiento' : (año_de_nacimiento5),
           'ciudad' : (ciudad5),}
+    
+
           
